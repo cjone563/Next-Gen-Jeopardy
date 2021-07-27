@@ -1,3 +1,4 @@
 - [x] Join KSU-IS Group
 - [x] Create Roadmap and ReadME file
 - [x] Clone example repository
+- [x] Run example and revise
