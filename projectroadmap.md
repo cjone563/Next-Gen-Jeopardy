@@ -2,3 +2,4 @@
 - [x] Create Roadmap and ReadME file
 - [x] Clone example repository
 - [x] Run example and revise
+- [x] Clear unnecessary data
