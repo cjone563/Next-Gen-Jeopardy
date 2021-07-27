@@ -2,6 +2,8 @@ from turtle import *
 import random
 global score
 
+# Need to make sure the graphics show
+
 print("Welcome to the game of champions or Jeopardy. You click on the number you want to play and the question will be asked to you. Remember that you start with what or who is and then say your answer and end your answer with a question mark. Once you finish a question and answer it, just click on another number and the question will be asked. DO NOT CLICK ON THE SAME NUMBER! You will penalized for your actions. Are your ready? Click a number, and if you click 'MYSTERY',you will be awarded or penalized with a random number of points.")
 score=0
 speed(0)
